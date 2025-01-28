@@ -43,3 +43,11 @@ final_model = pr.finalize_model(best_model)
 predictions = pr.predict_model(final_model, data=data)
 ```
 
+## Contributing
+We welcome contributions! Please fork this repository and submit pull requests if you have any improvements or suggestions.
+
+## License
+This project is licensed under the MIT License.
+```
+Feel free to customize this template according to your project's specifics.
+```
